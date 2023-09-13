@@ -1,6 +1,5 @@
 ![](https://cloud.overment.com/aidevs-1694638135.png)
 
-## AI_Devs #2
 Repozytorium z kodem źródłowym z webinaru **Jak połączyć AI z własnymi danymi? RAG w praktyce!**
 
 ⚠️ **UWAGA!** ⚠️
