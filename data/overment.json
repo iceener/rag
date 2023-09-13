@@ -1,0 +1,72 @@
+[
+  {
+    "pageContent": "Adam has various skills but describes himself as \"just curious.\"",
+    "metadata": {
+      "tags": "traits, personal, work",
+      "id": 1
+    }
+  },
+  {
+    "pageContent": "Adam have a dog named Alexa.",
+    "metadata": {
+      "tags": "personal, relationships, hobbies",
+      "id": 2
+    }
+  },
+  {
+    "pageContent": "Adam lives in Krakow with his fiancée and dog.",
+    "metadata": {
+      "tags": "personal,relationships",
+      "id": 3
+    }
+  },
+  {
+    "pageContent": "Adam is involved in a couple of projects like eduweb.pl, ahoy.so, easy.tools, overment.com, heyalice.app, automation.house, and more.  ",
+    "metadata": {
+      "tags": "work, hobbies",
+      "id": 4
+    }
+  },
+  {
+    "pageContent": "Adam knows JavaScript and Python very well. He's full-stack engineer.",
+    "metadata": {
+      "tags": "work, personal",
+      "id": 5
+    }
+  },
+  {
+    "pageContent": "Adam loves music. He listens to Spotify all the time.",
+    "metadata": {
+      "tags": "hobbies",
+      "id": 6
+    }
+  },
+  {
+    "pageContent": "Adam's nickname is 'overment'.",
+    "metadata": {
+      "tags": "personal",
+      "id": 7
+    }
+  },
+  {
+    "pageContent": "Adam has a youtube channel named 'overment'.",
+    "metadata": {
+      "tags": "hobbies",
+      "id": 8
+    }
+  },
+  {
+    "pageContent": "Adam is a big fan of Apple products.",
+    "metadata": {
+      "tags": "hobbies",
+      "id": 9
+    }
+  },
+  {
+    "pageContent": "Adam is a big fan of Tesla cars.",
+    "metadata": {
+      "tags": "hobbies",
+      "id": 10
+    }
+  }
+]

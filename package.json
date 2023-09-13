@@ -1,0 +1,21 @@
+{
+  "name": "rag",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "type": "module",
+  "scripts": {
+    "start": "bun app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adam Gospodarczyk <adam@overment.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@xenova/transformers": "^2.6.0",
+    "commander": "^11.0.0",
+    "langchain": "^0.0.148",
+    "openai": "^4.6.0",
+    "tiktoken": "^1.0.10"
+  }
+}
