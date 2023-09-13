@@ -1,6 +1,9 @@
 ![](https://cloud.overment.com/aidevs-1694638135.png)
 
 Repozytorium z kodem źródłowym z webinaru **Jak połączyć AI z własnymi danymi? RAG w praktyce!**
+Nagranie ze spotkania dostępne jest tutaj: https://www.youtube.com/watch?v=OvyRmJaCnRo
+
+Szkolenie AI Devs #2 zaczynamy 23 października. Dołącz do nas na https://aidevs.pl
 
 ⚠️ **UWAGA!** ⚠️
 - Kod źródłowy jest przeznaczony wyłącznie do celów edukacyjnych. Nie należy go używać w środowisku produkcyjnym.
