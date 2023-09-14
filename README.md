@@ -20,6 +20,8 @@ Szkolenie AI Devs #2 zaczynamy 23 października. Dołącz do nas na https://aide
 
 ## Uruchomienie 07_llama.ts
 
+Uruchominie 07_llama.ts wymaga zainstalowania modelu LLaMA2 na swoim komputerze.
+
 1. Zainstaluj https://ollama.ai
 2. Pobierz i uruchom model, np. llama-2 poleceniem `ollama run llama2`
 3. Uruchom skrypt poleceniem `bun 07_llama.ts`
